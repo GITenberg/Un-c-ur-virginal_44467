@@ -1,0 +1,39 @@
+_repo: Un-c-ur-virginal_44467
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gourmont, Remy de
+    aliases:
+    - De Gourmont, Remy
+    - L'Ymagier
+    - Gourmont, Remi de
+    - Gourmont, Remye
+    - Le Danois, N.
+    - Coffe, M.
+    - Drexelius, J.
+    - Gourmont, Rémy de
+    birthdate: 1858
+    deathdate: 1915
+    gutenberg_agent_id: '6996'
+    url: http://www.gutenberg.org/2009/agents/6996
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Remy_de_Gourmont
+    - http://en.wikipedia.org/wiki/R%C3%A9my_de_Gourmont
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2013-12-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44467'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French fiction -- 20th century'
+title: Un cœur virginal
+url: http://www.gutenberg.org/ebooks/44467
