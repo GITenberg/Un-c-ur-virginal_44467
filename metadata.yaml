@@ -23,6 +23,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Remy_de_Gourmont
     - http://en.wikipedia.org/wiki/R%C3%A9my_de_Gourmont
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44467#Un-c-ur-virginal
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2013-12-19'
 gutenberg_type: Text
